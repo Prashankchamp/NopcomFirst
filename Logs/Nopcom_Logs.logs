@@ -1,0 +1,238 @@
+2024-02-03 23:18:00,799 : INFO : Test_UserLogin : test_user_login_02 31 : Test_case test_user_login_02 is started 
+2024-02-03 23:18:00,801 : INFO : Test_UserLogin : test_user_login_02 33 : Opening browser and navigating to demonopcom 
+2024-02-03 23:18:02,282 : INFO : Test_UserLogin : test_verify_site_01 14 : Test_case test_verify_site_01 is started 
+2024-02-03 23:18:02,284 : INFO : Test_UserLogin : test_verify_site_01 16 : Opening browser and navigating to demo nopcom 
+2024-02-03 23:18:02,329 : INFO : Test_UserLogin : test_verify_site_01 17 : Page Title is -->Your store. Login 
+2024-02-03 23:18:02,346 : INFO : Test_UserLogin : test_verify_site_01 19 : Test_case test_verify_site_01 is passed 
+2024-02-03 23:18:02,346 : INFO : Test_UserLogin : test_verify_site_01 20 : Taking screenshot 
+2024-02-03 23:18:03,053 : INFO : Test_UserLogin : test_verify_site_01 28 : Test_case test_verify_site_01 is completed 
+2024-02-03 23:18:03,802 : INFO : Test_UserLogin : test_user_login_02 36 : Entering email - admin@yourstore.com 
+2024-02-03 23:18:07,207 : INFO : Test_UserLogin : test_user_login_02 39 : Entering password - admin 
+2024-02-03 23:18:10,423 : INFO : Test_UserLogin : test_user_login_02 42 : Click on Login Button 
+2024-02-03 23:18:15,463 : INFO : Test_UserLogin : test_user_login_02 46 : Test_case test_user_login_02 is passed 
+2024-02-03 23:18:15,464 : INFO : Test_UserLogin : test_user_login_02 47 : Taking screenshot 
+2024-02-03 23:18:19,561 : INFO : Test_UserLogin : test_user_login_02 56 : Test_case test_user_login_02 is completed 
+2024-02-04 00:02:48,670 : INFO : Test_UserLogin : test_verify_site_01 14 : Test_case test_verify_site_01 is started 
+2024-02-04 00:02:48,671 : INFO : Test_UserLogin : test_verify_site_01 16 : Opening browser and navigating to demo nopcom 
+2024-02-04 00:02:48,696 : INFO : Test_UserLogin : test_verify_site_01 17 : Page Title is -->Your store. Login 
+2024-02-04 00:02:48,708 : INFO : Test_UserLogin : test_verify_site_01 19 : Test_case test_verify_site_01 is passed 
+2024-02-04 00:02:48,709 : INFO : Test_UserLogin : test_verify_site_01 20 : Taking screenshot 
+2024-02-04 00:02:48,827 : INFO : Test_UserLogin : test_verify_site_01 28 : Test_case test_verify_site_01 is completed 
+2024-02-04 00:03:01,579 : INFO : Test_UserLogin : test_user_login_02 31 : Test_case test_user_login_02 is started 
+2024-02-04 00:03:01,579 : INFO : Test_UserLogin : test_user_login_02 33 : Opening browser and navigating to demonopcom 
+2024-02-04 00:03:04,580 : INFO : Test_UserLogin : test_user_login_02 36 : Entering email - admin@yourstore.com 
+2024-02-04 00:03:07,700 : INFO : Test_UserLogin : test_user_login_02 39 : Entering password - admin 
+2024-02-04 00:03:10,785 : INFO : Test_UserLogin : test_user_login_02 42 : Click on Login Button 
+2024-02-04 00:03:17,037 : INFO : Test_UserLogin : test_user_login_02 46 : Test_case test_user_login_02 is passed 
+2024-02-04 00:03:17,039 : INFO : Test_UserLogin : test_user_login_02 47 : Taking screenshot 
+2024-02-04 00:03:20,035 : INFO : Test_UserLogin : test_user_login_02 56 : Test_case test_user_login_02 is completed 
+2024-02-04 00:08:07,230 : INFO : Test_UserLogin : test_verify_site_01 14 : Test_case test_verify_site_01 is started 
+2024-02-04 00:08:07,231 : INFO : Test_UserLogin : test_verify_site_01 16 : Opening browser and navigating to demo nopcom 
+2024-02-04 00:08:07,256 : INFO : Test_UserLogin : test_verify_site_01 17 : Page Title is -->Your store. Login 
+2024-02-04 00:08:07,272 : INFO : Test_UserLogin : test_verify_site_01 19 : Test_case test_verify_site_01 is passed 
+2024-02-04 00:08:07,272 : INFO : Test_UserLogin : test_verify_site_01 20 : Taking screenshot 
+2024-02-04 00:08:07,370 : INFO : Test_UserLogin : test_verify_site_01 28 : Test_case test_verify_site_01 is completed 
+2024-02-04 00:08:21,617 : INFO : Test_UserLogin : test_user_login_02 31 : Test_case test_user_login_02 is started 
+2024-02-04 00:08:21,618 : INFO : Test_UserLogin : test_user_login_02 33 : Opening browser and navigating to demonopcom 
+2024-02-04 00:08:24,619 : INFO : Test_UserLogin : test_user_login_02 36 : Entering email - admin@yourstore.com 
+2024-02-04 00:08:27,830 : INFO : Test_UserLogin : test_user_login_02 39 : Entering password - admin 
+2024-02-04 00:08:30,923 : INFO : Test_UserLogin : test_user_login_02 42 : Click on Login Button 
+2024-02-04 00:08:36,927 : INFO : Test_UserLogin : test_user_login_02 46 : Test_case test_user_login_02 is passed 
+2024-02-04 00:08:36,929 : INFO : Test_UserLogin : test_user_login_02 47 : Taking screenshot 
+2024-02-04 00:08:40,917 : INFO : Test_UserLogin : test_user_login_02 56 : Test_case test_user_login_02 is completed 
+2024-02-04 20:19:15,262 : INFO : Test_UserLogin : test_verify_site_01 17 : Test_case test_verify_site_01 is started 
+2024-02-04 20:19:15,263 : INFO : Test_UserLogin : test_verify_site_01 19 : Opening browser and navigating to demo nopcom 
+2024-02-04 20:19:15,737 : INFO : Test_UserLogin : test_user_login_02 35 : Test_case test_user_login_02 is started 
+2024-02-04 20:19:15,738 : INFO : Test_UserLogin : test_user_login_02 37 : Opening browser and navigating to demonopcom 
+2024-02-04 20:19:15,787 : INFO : Test_UserLogin : test_verify_site_01 20 : Page Title is -->Your store. Login 
+2024-02-04 20:19:15,798 : INFO : Test_UserLogin : test_verify_site_01 22 : Test_case test_verify_site_01 is passed 
+2024-02-04 20:19:15,798 : INFO : Test_UserLogin : test_verify_site_01 23 : Taking screenshot 
+2024-02-04 20:19:16,354 : INFO : Test_UserLogin : test_verify_site_01 32 : Test_case test_verify_site_01 is completed 
+2024-02-04 20:19:18,738 : INFO : Test_UserLogin : test_user_login_02 40 : Entering email - admin@yourstore.com 
+2024-02-04 20:19:22,108 : INFO : Test_UserLogin : test_user_login_02 43 : Entering password - admin 
+2024-02-04 20:19:25,309 : INFO : Test_UserLogin : test_user_login_02 46 : Click on Login Button 
+2024-02-04 20:19:35,774 : INFO : Test_UserLogin : test_user_login_02 50 : Test_case test_user_login_02 is passed 
+2024-02-04 20:19:35,775 : INFO : Test_UserLogin : test_user_login_02 51 : Taking screenshot 
+2024-02-04 20:19:38,173 : INFO : Test_UserLogin : test_user_login_02 62 : Test_case test_user_login_02 is completed 
+2024-02-05 15:59:43,360 : INFO : Test_UserLogin : test_verify_site_01 17 : Test_case test_verify_site_01 is started 
+2024-02-05 15:59:43,363 : INFO : Test_UserLogin : test_verify_site_01 19 : Opening browser and navigating to demo nopcom 
+2024-02-05 15:59:43,389 : INFO : Test_UserLogin : test_verify_site_01 20 : Page Title is -->Your store. Login 
+2024-02-05 15:59:43,405 : INFO : Test_UserLogin : test_verify_site_01 22 : Test_case test_verify_site_01 is passed 
+2024-02-05 15:59:43,406 : INFO : Test_UserLogin : test_verify_site_01 23 : Taking screenshot 
+2024-02-05 15:59:43,677 : INFO : Test_UserLogin : test_verify_site_01 32 : Test_case test_verify_site_01 is completed 
+2024-02-05 15:59:51,649 : INFO : Test_UserLogin : test_user_login_02 35 : Test_case test_user_login_02 is started 
+2024-02-05 15:59:51,649 : INFO : Test_UserLogin : test_user_login_02 37 : Opening browser and navigating to demonopcom 
+2024-02-05 15:59:54,650 : INFO : Test_UserLogin : test_user_login_02 40 : Entering email - admin@yourstore.com 
+2024-02-05 16:03:27,946 : INFO : Test_UserLogin : test_verify_site_01 17 : Test_case test_verify_site_01 is started 
+2024-02-05 16:03:27,947 : INFO : Test_UserLogin : test_verify_site_01 19 : Opening browser and navigating to demo nopcom 
+2024-02-05 16:03:27,962 : INFO : Test_UserLogin : test_verify_site_01 20 : Page Title is -->Your store. Login 
+2024-02-05 16:03:27,970 : INFO : Test_UserLogin : test_verify_site_01 22 : Test_case test_verify_site_01 is passed 
+2024-02-05 16:03:27,970 : INFO : Test_UserLogin : test_verify_site_01 23 : Taking screenshot 
+2024-02-05 16:03:28,348 : INFO : Test_UserLogin : test_verify_site_01 32 : Test_case test_verify_site_01 is completed 
+2024-02-05 16:03:34,866 : INFO : Test_UserLogin : test_user_login_02 35 : Test_case test_user_login_02 is started 
+2024-02-05 16:03:34,866 : INFO : Test_UserLogin : test_user_login_02 37 : Opening browser and navigating to demonopcom 
+2024-02-05 16:03:37,868 : INFO : Test_UserLogin : test_user_login_02 40 : Entering email - admin@yourstore.com 
+2024-02-05 16:03:41,327 : INFO : Test_UserLogin : test_user_login_02 43 : Entering password - admin 
+2024-02-05 16:03:44,613 : INFO : Test_UserLogin : test_user_login_02 46 : Click on Login Button 
+2024-02-05 16:03:49,725 : INFO : Test_UserLogin : test_user_login_02 50 : Test_case test_user_login_02 is passed 
+2024-02-05 16:03:49,726 : INFO : Test_UserLogin : test_user_login_02 51 : Taking screenshot 
+2024-02-05 16:03:51,667 : INFO : Test_UserLogin : test_user_login_02 62 : Test_case test_user_login_02 is completed 
+2024-02-05 18:14:13,678 : INFO : Test_UserLogin_Params : test_user_login_params_01 16 : Test_case test_user_login_params_01 is started 
+2024-02-05 18:14:13,680 : INFO : Test_UserLogin_Params : test_user_login_params_01 18 : Opening browser and navigating to demonopcom 
+2024-02-05 18:14:16,682 : INFO : Test_UserLogin_Params : test_user_login_params_01 21 : Entering email - admin@yourstore.com 
+2024-02-05 18:14:19,988 : INFO : Test_UserLogin_Params : test_user_login_params_01 24 : Entering password - admin 
+2024-02-05 18:14:23,148 : INFO : Test_UserLogin_Params : test_user_login_params_01 27 : Click on Login Button 
+2024-02-05 18:15:59,067 : INFO : Test_UserLogin_Params : test_user_login_params_01 46 : Login Fail 
+2024-02-05 18:15:59,067 : INFO : Test_UserLogin_Params : test_user_login_params_01 51 : Expected Pass 
+2024-02-05 18:15:59,067 : INFO : Test_UserLogin_Params : test_user_login_params_01 53 : Taking screenshot 
+2024-02-05 18:16:05,861 : INFO : Test_UserLogin_Params : test_user_login_params_01 16 : Test_case test_user_login_params_01 is started 
+2024-02-05 18:16:05,862 : INFO : Test_UserLogin_Params : test_user_login_params_01 18 : Opening browser and navigating to demonopcom 
+2024-02-05 18:16:08,863 : INFO : Test_UserLogin_Params : test_user_login_params_01 21 : Entering email - admin@yourstore1.com 
+2024-02-05 18:16:12,093 : INFO : Test_UserLogin_Params : test_user_login_params_01 24 : Entering password - admin 
+2024-02-05 18:16:15,245 : INFO : Test_UserLogin_Params : test_user_login_params_01 27 : Click on Login Button 
+2024-02-05 18:16:19,497 : INFO : Test_UserLogin_Params : test_user_login_params_01 46 : Login Fail 
+2024-02-05 18:16:19,497 : INFO : Test_UserLogin_Params : test_user_login_params_01 48 : Expected Fail 
+2024-02-05 18:16:19,498 : INFO : Test_UserLogin_Params : test_user_login_params_01 59 : Test_case test_user_login_params_004 is Passed 
+2024-02-05 18:16:19,498 : INFO : Test_UserLogin_Params : test_user_login_params_01 64 : Test_case test_user_login_params_004 is Completed 
+2024-02-05 18:16:25,958 : INFO : Test_UserLogin_Params : test_user_login_params_01 16 : Test_case test_user_login_params_01 is started 
+2024-02-05 18:16:25,959 : INFO : Test_UserLogin_Params : test_user_login_params_01 18 : Opening browser and navigating to demonopcom 
+2024-02-05 18:16:28,961 : INFO : Test_UserLogin_Params : test_user_login_params_01 21 : Entering email - admin@yourstore.com 
+2024-02-05 18:16:32,187 : INFO : Test_UserLogin_Params : test_user_login_params_01 24 : Entering password - admin1 
+2024-02-05 18:16:35,340 : INFO : Test_UserLogin_Params : test_user_login_params_01 27 : Click on Login Button 
+2024-02-05 18:16:40,806 : INFO : Test_UserLogin_Params : test_user_login_params_01 46 : Login Fail 
+2024-02-05 18:16:40,806 : INFO : Test_UserLogin_Params : test_user_login_params_01 48 : Expected Fail 
+2024-02-05 18:16:40,806 : INFO : Test_UserLogin_Params : test_user_login_params_01 59 : Test_case test_user_login_params_004 is Passed 
+2024-02-05 18:16:40,807 : INFO : Test_UserLogin_Params : test_user_login_params_01 64 : Test_case test_user_login_params_004 is Completed 
+2024-02-05 18:16:46,672 : INFO : Test_UserLogin_Params : test_user_login_params_01 16 : Test_case test_user_login_params_01 is started 
+2024-02-05 18:16:46,672 : INFO : Test_UserLogin_Params : test_user_login_params_01 18 : Opening browser and navigating to demonopcom 
+2024-02-05 18:16:49,674 : INFO : Test_UserLogin_Params : test_user_login_params_01 21 : Entering email - admin@yourstore1.com 
+2024-02-05 18:16:52,979 : INFO : Test_UserLogin_Params : test_user_login_params_01 24 : Entering password - admin1 
+2024-02-05 18:16:56,141 : INFO : Test_UserLogin_Params : test_user_login_params_01 27 : Click on Login Button 
+2024-02-05 18:16:59,878 : INFO : Test_UserLogin_Params : test_user_login_params_01 46 : Login Fail 
+2024-02-05 18:16:59,879 : INFO : Test_UserLogin_Params : test_user_login_params_01 48 : Expected Fail 
+2024-02-05 18:16:59,879 : INFO : Test_UserLogin_Params : test_user_login_params_01 59 : Test_case test_user_login_params_004 is Passed 
+2024-02-05 18:16:59,879 : INFO : Test_UserLogin_Params : test_user_login_params_01 64 : Test_case test_user_login_params_004 is Completed 
+2024-02-05 18:18:18,670 : INFO : Test_UserLogin_Params : test_user_login_params_01 16 : Test_case test_user_login_params_01 is started 
+2024-02-05 18:18:18,671 : INFO : Test_UserLogin_Params : test_user_login_params_01 18 : Opening browser and navigating to demonopcom 
+2024-02-05 18:18:19,517 : INFO : Test_UserLogin_Params : test_user_login_params_01 16 : Test_case test_user_login_params_01 is started 
+2024-02-05 18:18:19,518 : INFO : Test_UserLogin_Params : test_user_login_params_01 18 : Opening browser and navigating to demonopcom 
+2024-02-05 18:18:20,141 : INFO : Test_UserLogin_Params : test_user_login_params_01 16 : Test_case test_user_login_params_01 is started 
+2024-02-05 18:18:20,141 : INFO : Test_UserLogin_Params : test_user_login_params_01 18 : Opening browser and navigating to demonopcom 
+2024-02-05 18:18:20,974 : INFO : Test_UserLogin_Params : test_user_login_params_01 16 : Test_case test_user_login_params_01 is started 
+2024-02-05 18:18:20,975 : INFO : Test_UserLogin_Params : test_user_login_params_01 18 : Opening browser and navigating to demonopcom 
+2024-02-05 18:18:21,673 : INFO : Test_UserLogin_Params : test_user_login_params_01 21 : Entering email - admin@yourstore.com 
+2024-02-05 18:18:22,519 : INFO : Test_UserLogin_Params : test_user_login_params_01 21 : Entering email - admin@yourstore1.com 
+2024-02-05 18:18:23,142 : INFO : Test_UserLogin_Params : test_user_login_params_01 21 : Entering email - admin@yourstore1.com 
+2024-02-05 18:18:23,976 : INFO : Test_UserLogin_Params : test_user_login_params_01 21 : Entering email - admin@yourstore.com 
+2024-02-05 18:18:24,950 : INFO : Test_UserLogin_Params : test_user_login_params_01 24 : Entering password - admin1 
+2024-02-05 18:18:25,838 : INFO : Test_UserLogin_Params : test_user_login_params_01 24 : Entering password - admin1 
+2024-02-05 18:18:26,508 : INFO : Test_UserLogin_Params : test_user_login_params_01 24 : Entering password - admin 
+2024-02-05 18:18:27,248 : INFO : Test_UserLogin_Params : test_user_login_params_01 24 : Entering password - admin 
+2024-02-05 18:18:28,148 : INFO : Test_UserLogin_Params : test_user_login_params_01 27 : Click on Login Button 
+2024-02-05 18:18:29,049 : INFO : Test_UserLogin_Params : test_user_login_params_01 27 : Click on Login Button 
+2024-02-05 18:18:29,728 : INFO : Test_UserLogin_Params : test_user_login_params_01 27 : Click on Login Button 
+2024-02-05 18:18:30,425 : INFO : Test_UserLogin_Params : test_user_login_params_01 27 : Click on Login Button 
+2024-02-05 18:18:31,993 : INFO : Test_UserLogin_Params : test_user_login_params_01 46 : Login Fail 
+2024-02-05 18:18:31,993 : INFO : Test_UserLogin_Params : test_user_login_params_01 48 : Expected Fail 
+2024-02-05 18:18:31,994 : INFO : Test_UserLogin_Params : test_user_login_params_01 59 : Test_case test_user_login_params_004 is Passed 
+2024-02-05 18:18:31,994 : INFO : Test_UserLogin_Params : test_user_login_params_01 64 : Test_case test_user_login_params_004 is Completed 
+2024-02-05 18:18:32,771 : INFO : Test_UserLogin_Params : test_user_login_params_01 46 : Login Fail 
+2024-02-05 18:18:32,771 : INFO : Test_UserLogin_Params : test_user_login_params_01 48 : Expected Fail 
+2024-02-05 18:18:32,771 : INFO : Test_UserLogin_Params : test_user_login_params_01 59 : Test_case test_user_login_params_004 is Passed 
+2024-02-05 18:18:32,772 : INFO : Test_UserLogin_Params : test_user_login_params_01 64 : Test_case test_user_login_params_004 is Completed 
+2024-02-05 18:18:33,708 : INFO : Test_UserLogin_Params : test_user_login_params_01 46 : Login Fail 
+2024-02-05 18:18:33,709 : INFO : Test_UserLogin_Params : test_user_login_params_01 48 : Expected Fail 
+2024-02-05 18:18:33,709 : INFO : Test_UserLogin_Params : test_user_login_params_01 59 : Test_case test_user_login_params_004 is Passed 
+2024-02-05 18:18:33,710 : INFO : Test_UserLogin_Params : test_user_login_params_01 64 : Test_case test_user_login_params_004 is Completed 
+2024-02-05 18:18:38,640 : INFO : Test_UserLogin_Params : test_user_login_params_01 35 : Test_case test_user_login_params_01 is passed 
+2024-02-05 18:18:38,640 : INFO : Test_UserLogin_Params : test_user_login_params_01 36 : Taking screenshot 
+2024-02-05 18:21:29,832 : INFO : Test_UserLogin_Params : test_user_login_params_01 16 : Test_case test_user_login_params_01 is started 
+2024-02-05 18:21:29,839 : INFO : Test_UserLogin_Params : test_user_login_params_01 18 : Opening browser and navigating to demonopcom 
+2024-02-05 18:21:30,441 : INFO : Test_UserLogin_Params : test_user_login_params_01 16 : Test_case test_user_login_params_01 is started 
+2024-02-05 18:21:30,442 : INFO : Test_UserLogin_Params : test_user_login_params_01 18 : Opening browser and navigating to demonopcom 
+2024-02-05 18:21:30,446 : INFO : Test_UserLogin_Params : test_user_login_params_01 16 : Test_case test_user_login_params_01 is started 
+2024-02-05 18:21:30,446 : INFO : Test_UserLogin_Params : test_user_login_params_01 18 : Opening browser and navigating to demonopcom 
+2024-02-05 18:21:30,541 : INFO : Test_UserLogin_Params : test_user_login_params_01 16 : Test_case test_user_login_params_01 is started 
+2024-02-05 18:21:30,541 : INFO : Test_UserLogin_Params : test_user_login_params_01 18 : Opening browser and navigating to demonopcom 
+2024-02-05 18:21:32,841 : INFO : Test_UserLogin_Params : test_user_login_params_01 21 : Entering email - admin@yourstore1.com 
+2024-02-05 18:21:33,442 : INFO : Test_UserLogin_Params : test_user_login_params_01 21 : Entering email - admin@yourstore.com 
+2024-02-05 18:21:33,447 : INFO : Test_UserLogin_Params : test_user_login_params_01 21 : Entering email - admin@yourstore1.com 
+2024-02-05 18:21:33,545 : INFO : Test_UserLogin_Params : test_user_login_params_01 21 : Entering email - admin@yourstore.com 
+2024-02-05 18:21:36,134 : INFO : Test_UserLogin_Params : test_user_login_params_01 24 : Entering password - admin 
+2024-02-05 18:21:36,783 : INFO : Test_UserLogin_Params : test_user_login_params_01 24 : Entering password - admin 
+2024-02-05 18:21:37,208 : INFO : Test_UserLogin_Params : test_user_login_params_01 24 : Entering password - admin1 
+2024-02-05 18:21:37,213 : INFO : Test_UserLogin_Params : test_user_login_params_01 24 : Entering password - admin1 
+2024-02-05 18:21:39,340 : INFO : Test_UserLogin_Params : test_user_login_params_01 27 : Click on Login Button 
+2024-02-05 18:21:39,931 : INFO : Test_UserLogin_Params : test_user_login_params_01 27 : Click on Login Button 
+2024-02-05 18:21:40,420 : INFO : Test_UserLogin_Params : test_user_login_params_01 27 : Click on Login Button 
+2024-02-05 18:21:40,424 : INFO : Test_UserLogin_Params : test_user_login_params_01 27 : Click on Login Button 
+2024-02-05 18:21:43,354 : INFO : Test_UserLogin_Params : test_user_login_params_01 46 : Login Fail 
+2024-02-05 18:21:43,355 : INFO : Test_UserLogin_Params : test_user_login_params_01 48 : Expected Fail 
+2024-02-05 18:21:43,355 : INFO : Test_UserLogin_Params : test_user_login_params_01 59 : Test_case test_user_login_params_004 is Passed 
+2024-02-05 18:21:43,355 : INFO : Test_UserLogin_Params : test_user_login_params_01 64 : Test_case test_user_login_params_004 is Completed 
+2024-02-05 18:21:44,607 : INFO : Test_UserLogin_Params : test_user_login_params_01 46 : Login Fail 
+2024-02-05 18:21:44,607 : INFO : Test_UserLogin_Params : test_user_login_params_01 48 : Expected Fail 
+2024-02-05 18:21:44,607 : INFO : Test_UserLogin_Params : test_user_login_params_01 59 : Test_case test_user_login_params_004 is Passed 
+2024-02-05 18:21:44,608 : INFO : Test_UserLogin_Params : test_user_login_params_01 64 : Test_case test_user_login_params_004 is Completed 
+2024-02-05 18:21:46,003 : INFO : Test_UserLogin_Params : test_user_login_params_01 46 : Login Fail 
+2024-02-05 18:21:46,003 : INFO : Test_UserLogin_Params : test_user_login_params_01 48 : Expected Fail 
+2024-02-05 18:21:46,004 : INFO : Test_UserLogin_Params : test_user_login_params_01 59 : Test_case test_user_login_params_004 is Passed 
+2024-02-05 18:21:46,004 : INFO : Test_UserLogin_Params : test_user_login_params_01 64 : Test_case test_user_login_params_004 is Completed 
+2024-02-05 18:21:50,881 : INFO : Test_UserLogin_Params : test_user_login_params_01 35 : Test_case test_user_login_params_01 is passed 
+2024-02-05 18:21:50,881 : INFO : Test_UserLogin_Params : test_user_login_params_01 36 : Taking screenshot 
+2024-02-06 10:02:30,848 : INFO : Test_UserLogin : test_user_login_02 35 : Test_case test_user_login_02 is started 
+2024-02-06 10:02:30,849 : INFO : Test_UserLogin : test_user_login_02 37 : Opening browser and navigating to demonopcom 
+2024-02-06 10:02:31,638 : INFO : Test_UserLogin : test_verify_site_01 17 : Test_case test_verify_site_01 is started 
+2024-02-06 10:02:31,638 : INFO : Test_UserLogin : test_verify_site_01 19 : Opening browser and navigating to demo nopcom 
+2024-02-06 10:02:31,661 : INFO : Test_UserLogin : test_verify_site_01 20 : Page Title is -->Your store. Login 
+2024-02-06 10:02:31,669 : INFO : Test_UserLogin : test_verify_site_01 22 : Test_case test_verify_site_01 is passed 
+2024-02-06 10:02:31,670 : INFO : Test_UserLogin : test_verify_site_01 23 : Taking screenshot 
+2024-02-06 10:02:32,144 : INFO : Test_UserLogin : test_verify_site_01 32 : Test_case test_verify_site_01 is completed 
+2024-02-06 10:02:33,850 : INFO : Test_UserLogin : test_user_login_02 40 : Entering email - admin@yourstore.com 
+2024-02-06 10:02:37,117 : INFO : Test_UserLogin : test_user_login_02 43 : Entering password - admin 
+2024-02-06 10:02:40,268 : INFO : Test_UserLogin : test_user_login_02 46 : Click on Login Button 
+2024-02-06 10:02:45,898 : INFO : Test_UserLogin : test_user_login_02 50 : Test_case test_user_login_02 is passed 
+2024-02-06 10:02:45,898 : INFO : Test_UserLogin : test_user_login_02 51 : Taking screenshot 
+2024-02-06 10:02:47,698 : INFO : Test_UserLogin : test_user_login_02 62 : Test_case test_user_login_02 is completed 
+2024-02-06 10:05:44,126 : INFO : Test_UserLogin : test_user_login_02 35 : Test_case test_user_login_02 is started 
+2024-02-06 10:05:44,129 : INFO : Test_UserLogin : test_user_login_02 37 : Opening browser and navigating to demonopcom 
+2024-02-06 10:05:44,268 : INFO : Test_UserLogin : test_verify_site_01 17 : Test_case test_verify_site_01 is started 
+2024-02-06 10:05:44,269 : INFO : Test_UserLogin : test_verify_site_01 19 : Opening browser and navigating to demo nopcom 
+2024-02-06 10:05:45,135 : INFO : Test_UserLogin : test_verify_site_01 20 : Page Title is -->Your store. Login 
+2024-02-06 10:05:45,182 : INFO : Test_UserLogin : test_verify_site_01 22 : Test_case test_verify_site_01 is passed 
+2024-02-06 10:05:45,183 : INFO : Test_UserLogin : test_verify_site_01 23 : Taking screenshot 
+2024-02-06 10:05:45,654 : INFO : Test_UserLogin : test_verify_site_01 32 : Test_case test_verify_site_01 is completed 
+2024-02-06 10:05:47,132 : INFO : Test_UserLogin : test_user_login_02 40 : Entering email - admin@yourstore.com 
+2024-02-06 10:05:50,390 : INFO : Test_UserLogin : test_user_login_02 43 : Entering password - admin 
+2024-02-06 10:05:53,545 : INFO : Test_UserLogin : test_user_login_02 46 : Click on Login Button 
+2024-02-06 10:05:59,113 : INFO : Test_UserLogin : test_user_login_02 50 : Test_case test_user_login_02 is passed 
+2024-02-06 10:05:59,114 : INFO : Test_UserLogin : test_user_login_02 51 : Taking screenshot 
+2024-02-06 10:06:01,019 : INFO : Test_UserLogin : test_user_login_02 62 : Test_case test_user_login_02 is completed 
+2024-02-06 16:00:19,779 : INFO : Test_UserLogin : test_verify_site_01 17 : Test_case test_verify_site_01 is started 
+2024-02-06 16:00:19,782 : INFO : Test_UserLogin : test_verify_site_01 19 : Opening browser and navigating to demo nopcom 
+2024-02-06 16:00:20,282 : INFO : Test_UserLogin : test_verify_site_01 20 : Page Title is -->Your store. Login 
+2024-02-06 16:00:20,359 : INFO : Test_UserLogin : test_verify_site_01 22 : Test_case test_verify_site_01 is passed 
+2024-02-06 16:00:20,359 : INFO : Test_UserLogin : test_verify_site_01 23 : Taking screenshot 
+2024-02-06 16:00:20,488 : INFO : Test_UserLogin : test_user_login_02 35 : Test_case test_user_login_02 is started 
+2024-02-06 16:00:20,489 : INFO : Test_UserLogin : test_user_login_02 37 : Opening browser and navigating to demonopcom 
+2024-02-06 16:00:20,925 : INFO : Test_UserLogin : test_verify_site_01 32 : Test_case test_verify_site_01 is completed 
+2024-02-06 16:00:23,490 : INFO : Test_UserLogin : test_user_login_02 40 : Entering email - admin@yourstore.com 
+2024-02-06 16:00:26,758 : INFO : Test_UserLogin : test_user_login_02 43 : Entering password - admin 
+2024-02-06 16:00:29,911 : INFO : Test_UserLogin : test_user_login_02 46 : Click on Login Button 
+2024-02-06 16:00:41,107 : INFO : Test_UserLogin : test_user_login_02 50 : Test_case test_user_login_02 is passed 
+2024-02-06 16:00:41,108 : INFO : Test_UserLogin : test_user_login_02 51 : Taking screenshot 
+2024-02-06 16:00:43,168 : INFO : Test_UserLogin : test_user_login_02 62 : Test_case test_user_login_02 is completed 
+2024-02-08 23:43:26,461 : INFO : Test_UserLogin : test_verify_site_01 17 : Test_case test_verify_site_01 is started 
+2024-02-08 23:43:26,461 : INFO : Test_UserLogin : test_verify_site_01 19 : Opening browser and navigating to demo nopcom 
+2024-02-08 23:43:26,472 : INFO : Test_UserLogin : test_user_login_02 35 : Test_case test_user_login_02 is started 
+2024-02-08 23:43:26,472 : INFO : Test_UserLogin : test_user_login_02 37 : Opening browser and navigating to demonopcom 
+2024-02-08 23:43:26,493 : INFO : Test_UserLogin : test_verify_site_01 20 : Page Title is -->Your store. Login 
+2024-02-08 23:43:26,493 : INFO : Test_UserLogin : test_verify_site_01 22 : Test_case test_verify_site_01 is passed 
+2024-02-08 23:43:26,493 : INFO : Test_UserLogin : test_verify_site_01 23 : Taking screenshot 
+2024-02-08 23:43:26,815 : INFO : Test_UserLogin : test_verify_site_01 32 : Test_case test_verify_site_01 is completed 
+2024-02-08 23:43:29,476 : INFO : Test_UserLogin : test_user_login_02 40 : Entering email - admin@yourstore.com 
+2024-02-08 23:43:32,762 : INFO : Test_UserLogin : test_user_login_02 43 : Entering password - admin 
+2024-02-08 23:43:36,128 : INFO : Test_UserLogin : test_user_login_02 46 : Click on Login Button 
+2024-02-08 23:43:42,756 : INFO : Test_UserLogin : test_user_login_02 50 : Test_case test_user_login_02 is passed 
+2024-02-08 23:43:42,756 : INFO : Test_UserLogin : test_user_login_02 51 : Taking screenshot 
+2024-02-08 23:43:44,774 : INFO : Test_UserLogin : test_user_login_02 62 : Test_case test_user_login_02 is completed 

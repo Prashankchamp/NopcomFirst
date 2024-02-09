@@ -1,0 +1,8 @@
+[32mINFO    [0m Test_UserLogin:test_userlogin.py:35 Test_case test_user_login_02 is started
+[32mINFO    [0m Test_UserLogin:test_userlogin.py:37 Opening browser and navigating to demonopcom
+[32mINFO    [0m Test_UserLogin:test_userlogin.py:40 Entering email - admin@yourstore.com
+[32mINFO    [0m Test_UserLogin:test_userlogin.py:43 Entering password - admin
+[32mINFO    [0m Test_UserLogin:test_userlogin.py:46 Click on Login Button
+[32mINFO    [0m Test_UserLogin:test_userlogin.py:50 Test_case test_user_login_02 is passed
+[32mINFO    [0m Test_UserLogin:test_userlogin.py:51 Taking screenshot
+[32mINFO    [0m Test_UserLogin:test_userlogin.py:62 Test_case test_user_login_02 is completed

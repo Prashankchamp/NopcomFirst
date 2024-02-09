@@ -1,0 +1,6 @@
+[32mINFO    [0m Test_UserLogin:test_userlogin.py:17 Test_case test_verify_site_01 is started
+[32mINFO    [0m Test_UserLogin:test_userlogin.py:19 Opening browser and navigating to demo nopcom
+[32mINFO    [0m Test_UserLogin:test_userlogin.py:20 Page Title is -->Your store. Login
+[32mINFO    [0m Test_UserLogin:test_userlogin.py:22 Test_case test_verify_site_01 is passed
+[32mINFO    [0m Test_UserLogin:test_userlogin.py:23 Taking screenshot
+[32mINFO    [0m Test_UserLogin:test_userlogin.py:32 Test_case test_verify_site_01 is completed
